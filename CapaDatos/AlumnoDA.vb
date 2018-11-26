@@ -7,6 +7,7 @@ Public Class AlumnoDA
     Public Shared ReadOnly _instancia As New AlumnoDA
     Public Shared ReadOnly Property instancia() As AlumnoDA
         Get
+
             Return _instancia
         End Get
     End Property
