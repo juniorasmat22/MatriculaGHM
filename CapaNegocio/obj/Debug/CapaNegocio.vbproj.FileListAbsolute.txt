@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaNegocio\obj\Debug\CapaNegocio.pdb

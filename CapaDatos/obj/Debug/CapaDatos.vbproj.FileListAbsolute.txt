@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.vbprojAssemblyReference.cache
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\HP\source\repos\SISTEMA_MATRICULA\CapaDatos\obj\Debug\CapaDatos.pdb

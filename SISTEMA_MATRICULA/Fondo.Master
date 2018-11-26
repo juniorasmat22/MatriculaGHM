@@ -1,0 +1,125 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Fondo.master.vb" Inherits="SISTEMA_MATRICULA.Fondo" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="Materialize/css/materialize.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link href="Swealert/sweetalert2.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css" />
+    <link href="css/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="css/menu.css" rel="stylesheet" />
+    <title>home</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <main>
+<form id="form1" runat="server">
+
+        <nav class="navbar-fixed grey darken-3">
+            <!-- navbar content here  -->
+
+            <div class="nav-wrapper">
+                            <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                <ul class="right hide-on-med-and-down">
+                   
+                    <!-- Dropdown Trigger -->
+                    <li><a class="dropdown-trigger" href="#!" data-target="dropdown1">Opciones<i class="material-icons right">arrow_drop_down</i></a></li>
+                </ul>
+            </div>
+        </nav>
+         <ul id="dropdown1" class="dropdown-content">
+                <li><a href="#"><i class="fa fa-user fa-fw"></i>Mi Perfil</a>
+                </li>
+                <li><a href="#"><i class="fa fa-gear fa-fw"></i>Cofiguracion</a>
+                </li>
+                <li><a href="login.aspx"><i class="fa fa-sign-out fa-fw"></i>Salir</a>
+                </li>
+            </ul>
+
+        <ul id="slide-out" class="sidenav sidenav-fixed">
+            <li>
+                <div class="user-view">
+                    <div class="background">
+                        <img src="https://materializecss.com/images/office.jpg" />
+                    </div>
+                    <a href="#user">
+                        <img class="circle" src="img/usuario.png" /></a>
+                    <asp:Label ID="Nombre" runat="server" Text="Label"><span class="white-text name"></span></asp:Label>
+                    <br />
+                    <asp:Label ID="txtCorreo" runat="server" Text="Label"><span class="white-text name">John Doe</span></asp:Label>
+                   <%-- <a href="#name" id="nombre"><span class="white-text name">John Doe</span></a>
+                    <a href="#email" id="correo"><span class="white-text email">jdandturk@gmail.com</span></a>--%>
+                </div>
+            </li>
+            <li><a href="index.aspx"><i class="material-icons">home</i>Inicio</a></li>
+            
+            <li>
+                <div class="divider"></div>
+            </li>
+            <li><a href="Frm_Alumnos.aspx"><i class="material-icons">person</i>Alumnos</a></li>
+            
+            <li>
+                <div class="divider"></div>
+            </li>
+            <li><a href="Frm_Docentes.aspx"><i class="material-icons">wc</i>Docentes</a></li>
+            
+            <li>
+                <div class="divider"></div>
+
+            </li>
+            <li><a href="Frm_Cursos.aspx"><i class="material-icons">book</i>Cursos</a></li>
+            
+            <li>
+                <div class="divider"></div>
+            </li>
+            <li><a href="Frm_Matricula.aspx"><i class="material-icons">school</i>Matricula</a></li>
+            
+            <li>
+                <div class="divider"></div>
+            </li>
+            <li><a href="Frm_Grado.aspx"><i class="material-icons">assignment</i>Grado</a></li>
+            
+            <li>
+                <div class="divider"></div>
+            </li>
+              <li><a href="Frm_AsignarCurso.aspx"><i class="material-icons">assignment_turned_in</i>Asignar Curso</a></li>
+            
+            <li>
+                <div class="divider"></div>
+            </li>
+           <%-- <li><a class="subheader">Subheader</a></li>
+            <li><a class="waves-effect" href="#!">Third Link With Waves</a></li>--%>
+        </ul>
+       
+  
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    </main>
+    
+</body>
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="Materialize/js/materialize.min.js"></script>
+<script src="Swealert/sweetalert2.min.js"></script>
+<script src="js/jquery.dataTables.min.js"></script>
+<script>
+    $(document).ready(function () {
+    $('.sidenav').sidenav();
+     $(".dropdown-trigger").dropdown();
+
+});
+</script>
+   
+
+<asp:contentplaceholder id="footer" runat="server">
+
+</asp:contentplaceholder>
+</html>
